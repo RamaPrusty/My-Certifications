@@ -1,6 +1,6 @@
 # My-Certifications
 MY CERTIFICATIONS
 
-ML - Standford University, Coursera
-DL - Deeplearning.ai, Coursera
-Data Science Professional Cert. IBM, Coursera
+1. ML - Standford University, Coursera
+2. DL - Deeplearning.ai, Coursera
+3. Data Science Professional Cert. IBM, Coursera
